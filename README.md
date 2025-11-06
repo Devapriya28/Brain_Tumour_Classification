@@ -42,12 +42,6 @@ By uploading a brain MRI image, the model predicts which tumor category the imag
 
 ---
 
-## 📸 App Interface
-
-![App Screenshot](./images/app_preview.png)
-
----
-
 ## 🧠 Model Information
 
 - Model Name: `MobileNetV2_best.pkl`  
